@@ -1,0 +1,12 @@
+C:\Users\singh sanjeev\Documents\Training\C#training\scientifiCalculator\scientifiCalculator\bin\Debug\scientifiCalculator.exe.config
+C:\Users\singh sanjeev\Documents\Training\C#training\scientifiCalculator\scientifiCalculator\bin\Debug\scientifiCalculator.exe
+C:\Users\singh sanjeev\Documents\Training\C#training\scientifiCalculator\scientifiCalculator\bin\Debug\scientifiCalculator.pdb
+C:\Users\singh sanjeev\Documents\Training\C#training\scientifiCalculator\scientifiCalculator\bin\Debug\Arithmetic.dll
+C:\Users\singh sanjeev\Documents\Training\C#training\scientifiCalculator\scientifiCalculator\bin\Debug\Power.dll
+C:\Users\singh sanjeev\Documents\Training\C#training\scientifiCalculator\scientifiCalculator\bin\Debug\Arithmetic.pdb
+C:\Users\singh sanjeev\Documents\Training\C#training\scientifiCalculator\scientifiCalculator\bin\Debug\Power.pdb
+C:\Users\singh sanjeev\Documents\Training\C#training\scientifiCalculator\scientifiCalculator\obj\Debug\scientifiCalculator.csproj.AssemblyReference.cache
+C:\Users\singh sanjeev\Documents\Training\C#training\scientifiCalculator\scientifiCalculator\obj\Debug\scientifiCalculator.csproj.CoreCompileInputs.cache
+C:\Users\singh sanjeev\Documents\Training\C#training\scientifiCalculator\scientifiCalculator\obj\Debug\scientifiCalculator.csproj.CopyComplete
+C:\Users\singh sanjeev\Documents\Training\C#training\scientifiCalculator\scientifiCalculator\obj\Debug\scientifiCalculator.exe
+C:\Users\singh sanjeev\Documents\Training\C#training\scientifiCalculator\scientifiCalculator\obj\Debug\scientifiCalculator.pdb
